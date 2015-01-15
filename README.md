@@ -6,6 +6,6 @@
 4. Mr.Nathakorn Sukumsirichart 5610545668 
   
 ###Navigation  
-[Vision Statement](TeamPP/vs.md)  
-[Usecase](TeamPP/us.md)
+[Vision Statement](vs.md)  
+[Usecase](us.md)
   
