@@ -7,5 +7,5 @@
   
 ###Navigation  
 [Vision Statement](vs.md)  
-[Usecase](us.md)
+[Usecase](uc.md)
   
