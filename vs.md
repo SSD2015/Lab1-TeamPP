@@ -1,5 +1,8 @@
-#Vision Statement  
-_Customer Goal_  
+#Vision Statement 
+_Who is the customer or user?_
+- Teacher
+
+_What is their need?_  
 - jeopardy game which can review students about the software knowledge  
 - show questions after click on the board  
 - no more than 2 people per team  
@@ -13,7 +16,7 @@ _Customer Goal_
 - they can play on their own to review the topic(OOP, soft spec)  
 - the questions & answers can be editted by the moderator freely  
   
-_Features_  
+_Solution_  
 - have local and online mode  
 - the users can create a lobby and they can customize their own rules (how many players? etc.)  
 - can be logged in by users to identify if he/she is player/moderator  
