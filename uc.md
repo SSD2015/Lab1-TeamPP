@@ -8,8 +8,8 @@ Description: Once student login into the game. They can find an opened lobby for
   
 ## UC3: Teacher/Student create a game  
 Description: Once they login, they can create a lobby for other student to join.
-If the creator is student, they will grant a moderator permission for that lobby only.  The moderator can limit the amount of team can join per lobby.  Once the lobby is full or moderator forces it, the game will start immediately.  Only online mode lobby can be created by moderator that is a student.  
-If the creator is teacher, they will grant any permission that student moderator have, also can create in both online and live mode lobby
+If the creator is student, he/she will automatically be a moderator of that lobby.  The moderator can limit the amount of team can join per lobby.  Once the lobby is full or moderator forces it, the game will start immediately.  Only online mode lobby can be created by moderator that is a student.  
+If the creator is teacher, he/she will autimatically be a moderator, also can create in both online and live mode lobby
   
 ## UC4: Student answer the question
 Description: The team who have the right, pick a question on the board.  
