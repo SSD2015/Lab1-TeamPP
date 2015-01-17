@@ -1,2 +1,2 @@
 ##Mockup
-[MainMenu](pic1.png)
+![MainMenu](pic1.png)
